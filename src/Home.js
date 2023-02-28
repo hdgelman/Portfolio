@@ -9,7 +9,7 @@ const Home = () => {
 
     return (
         <div className="home">
-            <h1>Harrison Gelman</h1>
+            <h1>Live Laugh Love</h1>
             <h2>{name}</h2>
             <button onClick={(e) => handleClick(e)}>CLICK</button>
         </div>

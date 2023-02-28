@@ -1,6 +1,6 @@
-import checkout from './checkout.png'
-import loginPic from './login pic.png'
-import pup from './pup.png'
+import checkout from './pics/checkout.png'
+import loginPic from './pics/login pic.png'
+import pup from './pics/pup.png'
 
 const Portfolio = () => {
     return (
